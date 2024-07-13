@@ -2,7 +2,7 @@
 
 ## Study Case :
 Produk Alami Herbal telah berpengalaman dalam penjualan melalui E-Commerce. Akan tetapi, 
-kurang memfasilitasi bagik Pelanggan untuk mengetahui informasi detail dari Toko tersebut. 
+kurang memfasilitasi bagi Pelanggan untuk mengetahui informasi detail dari Toko tersebut. 
 Sehingga dikembangkan Website One Page Toko Alami Herbal untuk memuat informasi yang lebih detail bagi pelanggan.
 
 ## Overview :
