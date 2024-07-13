@@ -18,7 +18,7 @@ Menggunakan Bahasa Pemrograman HTML, CSS dan JS untuk website yang interaktif. W
 - Footer (Pintasan untuk Subscribe Produk Toko, Social Media, Info Kontak, Kebijakan)
 
 ## Example Result
-<img align="center" width="800" src="Desktop- 1.png" />
-<img align="center" width="800" src="Desktop- 4.png" />
-<img align="center" width="800" src="Desktop- 7.png" />
+<img align="center" width="800" src="Desktop - 1.png" />
+<img align="center" width="800" src="Desktop - 4.png" />
+<img align="center" width="800" src="Desktop - 7.png" />
 
